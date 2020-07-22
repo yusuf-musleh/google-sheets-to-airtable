@@ -1,0 +1,5 @@
+{
+  "name": "ymusleh/google-sheets-to-airtable",
+  "timeout": 30000,
+  "connector": false
+}

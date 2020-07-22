@@ -1,0 +1,8 @@
+{
+  "name": "google-sheets-to-airtable",
+  "author": "Yusuf Musleh <yusuf@stdlib.com>",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
